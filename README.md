@@ -8,7 +8,7 @@ Tired of setting env. Some small tools to make things easier.
 ## Sequences  
 
 ```bash
-cd setenv
+cd setenv-{$version}
 ./getbrew.sh
 ./getcomposer.sh
 ./getnecessity.sh
